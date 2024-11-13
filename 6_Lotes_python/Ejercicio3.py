@@ -10,9 +10,9 @@ P4=0;P3=0;P2=0;P1=0
 for i in range (1,N+1):
     sw=0
     while sw==0:
-        a=int(input("Intro a: "))
-        b=int(input("Intro b: "))
-        c=int(input("Intro c: "))
+        a=int(input("Introduce a (victorias): "))
+        b=int(input("Introduce b (empates): "))
+        c=int(input("Introduce c (derrotas): "))
         if a+b+c==8:
             sw=1
         else:
