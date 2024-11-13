@@ -1,7 +1,7 @@
 //Determinar la primalidad de un numero, 1 si es primo, 0 en caso contrario
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ej8_5 {
 
     public static int esPrimo(int w) {
         int c=0;

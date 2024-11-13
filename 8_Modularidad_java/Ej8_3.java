@@ -4,7 +4,7 @@ b) El numero en base binaria.
 c) La sumatoria de 1 a n */
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Ej8_3 {
 
     public static int primo(int w) {
         int p=0;

@@ -1,7 +1,7 @@
 //Dado un lote de N numeros, determinar los divisores de cada x numero
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ej6_1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         

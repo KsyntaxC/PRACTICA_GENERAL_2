@@ -7,7 +7,7 @@ seguidamente se leen N lineas con 3 enteros a, b, c, que consistiran en el numer
 empates y derrotas respectivamente, los cuales sumados deben ser 8.*/
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Ej6_3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         

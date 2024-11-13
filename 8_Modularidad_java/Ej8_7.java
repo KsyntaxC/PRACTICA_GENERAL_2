@@ -1,7 +1,7 @@
 //Verificar si el numero "es primo" o "no es primo"
 import java.util.Scanner;
 
-public class Ejercicio7 {
+public class Ej8_7 {
 
     public static boolean esPrimo(int w) {
         int c = 0;

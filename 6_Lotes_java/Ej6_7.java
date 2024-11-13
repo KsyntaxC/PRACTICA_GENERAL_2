@@ -2,7 +2,7 @@
 pares y el segundo formado por los impares de cada numero del lote luego determine cual es mayor*/
 import java.util.Scanner;
 
-public class Ejercicio7 {
+public class Ej6_7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

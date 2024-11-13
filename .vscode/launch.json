@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ej6_1",
+            "request": "launch",
+            "mainClass": "Ej6_1",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej6_3",
+            "request": "launch",
+            "mainClass": "Ej6_3",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej6_5",
+            "request": "launch",
+            "mainClass": "Ej6_5",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej6_7",
+            "request": "launch",
+            "mainClass": "Ej6_7",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej8_1",
+            "request": "launch",
+            "mainClass": "Ej8_1",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej8_3",
+            "request": "launch",
+            "mainClass": "Ej8_3",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej8_5",
+            "request": "launch",
+            "mainClass": "Ej8_5",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej8_7",
+            "request": "launch",
+            "mainClass": "Ej8_7",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej8_9",
+            "request": "launch",
+            "mainClass": "Ej8_9",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej9_1",
+            "request": "launch",
+            "mainClass": "Ej9_1",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej9_3",
+            "request": "launch",
+            "mainClass": "Ej9_3",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        }
+    ]
+}

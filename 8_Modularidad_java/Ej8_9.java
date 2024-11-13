@@ -6,7 +6,7 @@ lineas, en la primera linea de cada caso se escribe el operador, y en la segunda
 En la salida para cada operacion realizada se muestra el resultado. */
 import java.util.Scanner;
 
-public class Ejercicio9 {
+public class Ej8_9 {
 
     public static int Expo(int a) {
         Scanner sc = new Scanner(System.in);

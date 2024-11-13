@@ -4,7 +4,7 @@ Salida: Por cada numero N leido de teclado debe haber una salida que indique cua
 numeros son palındromos*/
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ej8_1 {
     
     public static int Comp(int w) {
         int nn=0;

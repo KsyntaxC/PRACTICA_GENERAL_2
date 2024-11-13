@@ -1,7 +1,7 @@
 //Sumar todos los digitos de los numeros ingresados hasta que se ingrese -1 sin adicionar este mismo
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ej6_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
