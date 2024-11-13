@@ -17,9 +17,9 @@ def pal(w):
         P=0
     return(P)
 
-T=int(input("Intro N: "))
+T=int(input("Introduce T (El numero de numeros a verificar): "))
 s=0
 for i in range (1,T+1):
-    N=int(input("Intro x: "))
+    N=int(input("Introduce N: "))
     s=s+pal(N)
-print(s)
+print("Hay ",s," palindromos")

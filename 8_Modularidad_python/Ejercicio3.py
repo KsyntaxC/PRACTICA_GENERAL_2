@@ -30,7 +30,7 @@ def sum(w):
         s=s+i
     return(s)
 
-N=int(input("Intro N:"))
+N=int(input("Introduce N:"))
 p=primo(N)
 b=bin(N)
 s=sum(N)
