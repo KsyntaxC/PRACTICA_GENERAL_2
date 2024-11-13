@@ -42,7 +42,7 @@ public class Ej9_3 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduce el numero T de casos de prueba: ");
         int T = sc.nextInt();
-        sc.nextLine(); // Limpiar el buffer
+        sc.nextLine();
 
         for (int i=1; i <= T; i++) {
             System.out.print("Introduce la cadena: ");

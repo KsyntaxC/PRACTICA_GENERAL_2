@@ -11,14 +11,14 @@ def bailarina(w):
     for i in range(len(w)):
         nc=w[i]
         if nc!=" ":
-            a=ord(nc)
+            asq=ord(nc)
             if c%2==0:
                 if 'A'<=nc<='Z':
-                    a=a+32
+                    asq=asq+32
             else:
                 if 'a'<=nc<='z':
-                    a=a-32
-            s=s+chr(a)
+                    asq=asq-32
+            s=s+chr(asq)
         else:
             s=s+nc
             c=c+1
