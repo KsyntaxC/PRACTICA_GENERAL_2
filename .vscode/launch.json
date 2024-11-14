@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ej11_7",
+            "request": "launch",
+            "mainClass": "Ej11_7",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
             "name": "Ej10_9",
             "request": "launch",
             "mainClass": "Ej10_9",
