@@ -39,7 +39,10 @@ def may_prim(f):
     if i<len(f) and 'a'<=f[i]<='z':
         r=r+chr(ord(f[i])-32)
     else:
-        r=r+f[i] if i<len(f) else ""
+        if i<len(f):
+            r=r+f[i]
+        else:
+            r=""
     for j in range(i+1,len(f)):
         if 'A' <= f[j] <= 'Z':
             r=r+chr(ord(f[j]) + 32)
