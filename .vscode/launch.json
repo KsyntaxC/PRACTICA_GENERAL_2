@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ej10_9",
+            "request": "launch",
+            "mainClass": "Ej10_9",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej10_3",
+            "request": "launch",
+            "mainClass": "Ej10_3",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
+            "name": "Ej10_1",
+            "request": "launch",
+            "mainClass": "Ej10_1",
+            "projectName": "PRACTICA_GENERAL_2_dc4a20bb"
+        },
+        {
+            "type": "java",
             "name": "Ej9_5",
             "request": "launch",
             "mainClass": "Ej9_5",
